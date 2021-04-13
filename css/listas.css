@@ -15,16 +15,12 @@
 .fila {
   display: block;
   padding: 1rem;
+  text-decoration: none;
 }
 
 a.fila:active {
   background-color:
     var(--col-active);
-    text-decoration: none;
-}
-
-a {
-  text-decoration: none;
 }
 
 .primario {
