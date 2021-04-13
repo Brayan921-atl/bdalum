@@ -23,6 +23,10 @@ a.fila:active {
     text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .primario {
   display: block;
   font-size: 1rem;
