@@ -60,3 +60,9 @@ p label>* {
   box-sizing: border-box;
   width: 100%;
 }
+
+form {
+  padding: 60px;
+  background-color: #E7E7E7;
+  margin: 0 auto;
+}
