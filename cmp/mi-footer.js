@@ -11,3 +11,4 @@ class MiFooter
 
 customElements.define(
   "mi-footer", MiFooter);
+
