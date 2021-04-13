@@ -44,7 +44,7 @@ export async function
         usuario.email);
     for (const rol of roles) {
       if (rolIds.has(rol)) {
-        return true;
+        return false;
       }
     }
     alert("No autorizado.");
