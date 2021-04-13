@@ -33,6 +33,7 @@ header {
   padding-bottom: 0.5rem;
   gap: 0.5rem;
   text-decoration: none;
+  color:#000;
 }
 
 header input {
