@@ -6,7 +6,6 @@
 
 .lista {
   margin: 1rem 0;
-  text-decoration: none;
 }
 
 .checks {
@@ -21,6 +20,7 @@
 a.fila:active {
   background-color:
     var(--col-active);
+    text-decoration: none;
 }
 
 .primario {
