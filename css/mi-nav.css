@@ -16,5 +16,8 @@ mi-nav ul {
 
 mi-nav ul li {
   margin: 0.5rem;
+}
+
+mi-nav a {
   text-decoration: none;
 }
